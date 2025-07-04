@@ -1,5 +1,0 @@
-com\innotek\salesdashboard\model\SalesRecord.class
-com\innotek\salesdashboard\controller\SalesController.class
-com\innotek\salesdashboard\service\SalesDataService.class
-com\innotek\salesdashboard\SalesDashboardApplication.class
-com\innotek\salesdashboard\model\SalesSummary.class
